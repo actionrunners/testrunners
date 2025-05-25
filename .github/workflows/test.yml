@@ -3,6 +3,6 @@ on:
 
 jobs:
   build: 
-    runs-on: self-hosted # label of org runner
+    runs-on: arc-runner-vkwxf-d4mht # label of org runner
     steps: 
       - run: echo "Hello kishore4"
